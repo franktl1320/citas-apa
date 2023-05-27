@@ -1,0 +1,46 @@
+¿Qué hace el software? 
+
+Genera  citas y referencias de información, en formato APA.
+
+¿Qué funciones tiene?
+
+añadir fuente desde archivo o link
+añadir fuente manual
+generar referencia
+copiar la referencia portapapeles
+compartir por la red
+salvar historial del  usuario
+
+
+¿Cómo está implementado? 
+
+Aplicación web portable para Android e iOS
+Modelo vista-controlador con el framework Flask
+Modelo  base de datos relacionales con SQLite3
+App controlador en lenguaje python
+Vista  web con HTML,CSS, JScript
+
+¿Qué nuevas habilidades necesito adquirir?
+
+Implementación de APIs (herramientas creadas por terceras personas)
+Conectar APIs de redes sociales 
+
+
+¿Qué temas necesito investigar? 
+normas apa , 
+reglas semántica y sintaxis de normas APA,
+referencias de información,
+citado en documentos,
+apps similares como scribbr.es
+
+¿Qué consideras que es un buen resultado para este proyecto?
+Una herramienta suficienta para usarse a  nivel preparatoria.
+Herramienta didáctica.
+
+¿Un mejor resultado?
+Una herramienta suficiente para nivel estudios profesionales.
+
+¿El mejor de los resultados?
+Herramienta para profesionales.
+
+
