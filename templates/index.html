@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %}Generador de Citas APA {% endblock %}</h1>
+    <section>
+        <form method="POST" action="/">
+          {{ voce.csrf_token }}
+          {{ voce.name.label}} {{ voce.name(size=20) }}
+          <input type="submit" value="Go">
+        </form>
+    </section>
+{% endblock %}
